@@ -1,0 +1,52 @@
+# ============================================================
+#  MY SITES — the live library.
+#
+#  Format (Title and Category are optional):
+#     https://example.com | Site Title | Category
+#
+#  - Lines starting with #  are ignored (comments).
+#  - Blank lines are ignored.
+#  - Previews (screenshots) are generated automatically from the URL.
+# ============================================================
+
+https://can.hisubhadeep.com/             | Vida Commerce          | E-commerce
+https://ship26.hisubhadeep.com/           | Ship26 Store           | E-commerce
+https://vama.cartatelier.com/             | Vama Atelier           | E-commerce
+https://ecom1.hisubhadeep.com/            | Stride Footwear        | E-commerce
+
+https://studio.hisubhadeep.com/           | SP Studio              | Portfolio
+https://web.hisubhadeep.com/              | Web — Portfolio        | Portfolio
+https://flex.hisubhadeep.com/             | Flex Portfolio         | Portfolio
+https://dragon.hisubhadeep.com/           | SBK Portfolio          | Portfolio
+https://anthony-lyart.vercel.app/         | Anthony Ly Art         | Portfolio
+https://www.lucycharlottenicholls.org/    | Lucy Charlotte         | Portfolio
+
+https://digitwin.hisubhadeep.com/         | DigiTwin Coaching      | Coaching
+https://bloom.hisubhadeep.com/            | Bloom Life Coach       | Coaching
+https://marketinglaunchpad.hisubhadeep.com/ | Marketing Launchpad  | Coaching
+https://tr.hisubhadeep.com/               | TR Coaching            | Coaching
+https://platinum.hisubhadeep.com/         | Platinum Coaching      | Coaching
+https://quantum.hisubhadeep.com/          | Quantum Life Coach     | Coaching
+https://ilay.hisubhadeep.com/             | Ilay Coaching          | Coaching
+https://life.hisubhadeep.com/             | Life Coaching          | Coaching
+
+https://dairecrossan.hisubhadeep.com/     | Daire Crossan Fit      | Fitness
+https://lordronnie.hisubhadeep.com/       | Coach Ronnie           | Fitness
+https://shulkfit.hisubhadeep.com/         | ShulkFit               | Fitness
+https://alexaguilar.hisubhadeep.com/      | Alex Aguilar Fit       | Fitness
+https://hrf.hisubhadeep.com/              | HRF Fitness            | Fitness
+https://mw.hisubhadeep.com/               | Men's Wellness         | Fitness
+
+https://donemareact.hisubhadeep.com/      | Donema Construction    | Construction
+https://walkez.hisubhadeep.com/           | WalkEz                 | Construction
+https://ontop.hisubhadeep.com/            | OnTop Roofing          | Construction
+https://rey.hisubhadeep.com/              | Rey Drywall            | Construction
+
+https://realestate.hisubhadeep.com/       | Real Estate            | Real Estate
+https://barrelandhatchet.hisubhadeep.com/ | Barrel & Hatchet       | Hospitality
+https://street7.hisubhadeep.com/          | Street7 Photography    | Photography
+https://retro.hisubhadeep.com/            | Retro Design           | Design
+https://enzou.hisubhadeep.com/            | Enzou                  | Brand
+
+https://save.x1vey.com/                   | Save Email             | App
+https://callme.hisubhadeep.com/           | The CallMe App         | App
